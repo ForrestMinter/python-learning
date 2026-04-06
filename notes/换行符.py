@@ -1,6 +1,0 @@
-print("没有换行符")
-print("有\n换行符")
-print("多个\n换行符\n在这里")
-print("\n开头换行")
-print("结尾换行\n")
-print("同时用\t制表符和\n换行符")
