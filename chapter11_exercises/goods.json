@@ -1,0 +1,22 @@
+[
+    {
+        "name": "orange",
+        "price": 20,
+        "amount": 5
+    },
+    {
+        "name": "book",
+        "price": 100,
+        "amount": 3
+    },
+    {
+        "name": "pen",
+        "price": 2,
+        "amount": 20
+    },
+    {
+        "name": "ball",
+        "price": 15,
+        "amount": 4
+    }
+]
